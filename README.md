@@ -1,8 +1,7 @@
 - 👋 Hola, soy @Yesiblato
-- 👀 I’m 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Soy amante de la música y la tecnología.
+- 🌱Actualmente estoy estudiando en el BootCamp de Laboratoria Desarrollo Web.
+
 
 <!---
 Yesiblato/Yesiblato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
